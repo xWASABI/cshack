@@ -263,10 +263,11 @@ background: #FFF;
 }
 
 #hero-banner{
+  background-size: 100%;
+  height: auto;
+  background-position:left;
   overflow: hidden;
-  height: 700px;
   background: url('../images/banner/banner.jpg');
-  background-size:cover;
   color:#fff;
 }
 #hero-banner.item {
